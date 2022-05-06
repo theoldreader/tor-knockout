@@ -4,7 +4,7 @@ require "knockout-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "knockout-rails"
-  s.version     = KnockoutRails::VERSION
+  s.version     = "#{KnockoutRails::VERSION}.1"
   s.authors     = ["Dmytrii Nagirniak"]
   s.email       = ["dnagir@gmail.com"]
   s.homepage    = "http://github.com/dnagir/knockout-rails"
